@@ -21,7 +21,7 @@ Clone this repository and upload it to your hosting or VPS/DEDICATED. Please chm
 ## Requirements to script service install
 
 - VPS/DEDICATED clean with root password
-- SUBDOMAIN or DOMAIN pointed to ip of VPS
+- SUBDOMAIN or DOMAIN pointed to ip of Virtual Private Space.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
